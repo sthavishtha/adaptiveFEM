@@ -1,0 +1,3 @@
+- The codes have been tested in MATLAB R2021b.
+- Based on the  [IFEM](https://github.com/lyc102/ifem) MATLAB package.
+- If needed, replace the given file <getH1error.m> with the one used in IFEM. This file has some additional computations of error norms.
